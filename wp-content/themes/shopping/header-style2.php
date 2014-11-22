@@ -60,11 +60,12 @@
                 <div class="col-md-6 col-xs-6 user-login">
                     <?php if( !is_user_logged_in() ){ ?>
                         <span class="hidden-xs"><?php echo __('Welcome visitor you can',TEXTDOMAIN); ?></span>
-                        <a href="<?php echo get_permalink( get_option('woocommerce_myaccount_page_id') ); ?>" title="<?php _e('login or register','woothemes'); ?>"><?php _e(' login or register ','woothemes'); ?></a>
+                        <a href="<?php echo get_permalink( get_option('woocommerce_myaccount_page_id') ); ?>" title="<?php __('login or register','woothemes'); ?>"><?php __(' login or register ','woothemes'); ?></a>
                     <?php }else{ ?>
                         <?php $current_user = wp_get_current_user(); ?>
                         <span class="hidden-xs"><?php echo __('Welcome ',TEXTDOMAIN); ?><?php echo $current_user->display_name; ?> !</span>
                     <?php } ?>
+                     Hotline: <span class="hotline">098 935 9999</span>
                 </div>
                 <?php
                 $args = array(

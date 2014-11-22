@@ -132,11 +132,11 @@ class WPO_SubTheme extends WPO_Framework {
 	}
 
 	public function iconWishlist($value){
-		return '<i class="fa fa-heart"></i><span>Add to wishlist</span>';
+		return '<i class="fa fa-heart"></i><span>Lưu lại</span>';
 	}
 
 	public function iconWishlistAdd(){
-		return '<i class="fa fa-check"></i><span>Add to wishlist</span>';
+		return '<i class="fa fa-check"></i><span>Lưu lại</span>';
 	}
 
 	private function initRequirePlugin(){

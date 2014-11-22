@@ -43,10 +43,10 @@ if(!function_exists('shopping_cartdropdown')){
             <div class="top-cart dropdown text-right">
                 <i class="pull-right fa fa-shopping-cart"></i>
                 <h3 class="cart">
-                    <?php echo __('Shopping Cart',TEXTDOMAIN); ?>
+                    <?php echo __('Giỏ Hàng',TEXTDOMAIN); ?>
                 </h3>
                 <a class="dropdown-toggle cart-contents" href="#" data-toggle="dropdown" data-hover="dropdown" data-delay="0" title="<?php _e('View your shopping cart', 'woothemes'); ?>">
-                    <?php echo sprintf(_n('%d item', '%d items', $woocommerce->cart->cart_contents_count, 'woothemes'), $woocommerce->cart->cart_contents_count);?> - <?php echo $woocommerce->cart->get_cart_total(); ?>
+                    <?php echo sprintf(_n('%d sản phẩm', '%d sản phẩm', $woocommerce->cart->cart_contents_count, 'woothemes'), $woocommerce->cart->cart_contents_count);?> - <?php echo $woocommerce->cart->get_cart_total(); ?>
                 </a>
                 <div class="dropdown-menu">
                     <?php woocommerce_mini_cart(); ?>
@@ -127,7 +127,7 @@ if(!function_exists('shopping_searchform')){
                         <div class="input-group">
                             <input name="s" id="s" maxlength="40"
                                    class="form-control input-search" type="text" size="20"
-                                   placeholder="Enter search...">
+                                   placeholder="Từ khóa cần tìm...">
                             <span class="input-group-addon">
                                 <input type="submit" id="searchsubmit" class="fa" value="&#xf002;"/>
                                 <input type="hidden" name="post_type" value="product"/>

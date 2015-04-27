@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: WPO Shopping (Share on Theme123.Net) v1.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-11-19 16:32:41+0000\n"
+"PO-Revision-Date: 2014-12-04 18:31:26+0000\n"
 "Last-Translator: morza <ngoquyxuan@gmail.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -1835,11 +1835,6 @@ msgstr ""
 msgid "Skin 3"
 msgstr ""
 
-#: sub/functions/theme.php:46
-#@ shopping
-msgid "Shopping Cart"
-msgstr "Giỏ Hàng"
-
 #: sub/functions/theme.php:48
 #: sub/functions/woocommerce.php:78
 #: sub/functions/woocommerce.php:96
@@ -1847,7 +1842,6 @@ msgstr "Giỏ Hàng"
 msgid "View your shopping cart"
 msgstr ""
 
-#: sub/functions/theme.php:49
 #: sub/functions/woocommerce.php:98
 #, php-format
 #@ woothemes
@@ -3408,4 +3402,17 @@ msgstr ""
 msgctxt "by comment author"
 msgid "by %1$s"
 msgstr ""
+
+#: sub/functions/theme.php:46
+#@ shopping
+msgid "Giỏ Hàng"
+msgstr ""
+
+#: sub/functions/theme.php:49
+#, php-format
+#@ woothemes
+msgid "%d sản phẩm"
+msgid_plural "%d sản phẩm"
+msgstr[0] ""
+msgstr[1] ""
 

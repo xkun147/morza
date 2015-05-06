@@ -1,0 +1,600 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Wishlist v1.1.6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-11-18 19:05:58+0000\n"
+"Last-Translator: morza <ngoquyxuan@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Vietnamese\n"
+"X-Poedit-Country: VIET NAM\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: class.yith-wcwl-init.php:114
+#: class.yith-wcwl-install.php:137
+#@ yit
+msgid "Wishlist"
+msgstr ""
+
+#: class.yith-wcwl-init.php:365
+#@ yit
+msgid "Cannot add to the cart as product is Out of Stock!"
+msgstr "Không thể thêm sản phẩm đang hêt hàng vào giỏ hàng!"
+
+#: class.yith-wcwl-init.php:430
+#: class.yith-wcwl-init.php:859
+#@ yit
+msgid "General Settings"
+msgstr ""
+
+#: class.yith-wcwl-init.php:431
+#: class.yith-wcwl-init.php:965
+#@ yit
+msgid "Styles"
+msgstr ""
+
+#: class.yith-wcwl-init.php:432
+#: class.yith-wcwl-init.php:1028
+#@ yit
+msgid "Socials &amp; Share"
+msgstr ""
+
+#: class.yith-wcwl-init.php:453
+#@ yit
+msgid "Colors"
+msgstr ""
+
+#: class.yith-wcwl-init.php:483
+#@ yit
+msgid "\"Add to Wishlist\" button background"
+msgstr ""
+
+#: class.yith-wcwl-init.php:484
+#@ yit
+msgid "\"Add to Wishlist\" button text"
+msgstr ""
+
+#: class.yith-wcwl-init.php:485
+#@ yit
+msgid "\"Add to Wishlist\" button border"
+msgstr ""
+
+#: class.yith-wcwl-init.php:491
+#@ yit
+msgid "\"Add to Wishlist\" button background (hover)"
+msgstr ""
+
+#: class.yith-wcwl-init.php:492
+#@ yit
+msgid "\"Add to Wishlist\" button text (hover)"
+msgstr ""
+
+#: class.yith-wcwl-init.php:493
+#@ yit
+msgid "\"Add to Wishlist\" button border (hover)"
+msgstr ""
+
+#: class.yith-wcwl-init.php:498
+#@ yit
+msgid "\"Add to Cart\" button background"
+msgstr ""
+
+#: class.yith-wcwl-init.php:499
+#@ yit
+msgid "\"Add to Cart\" button text"
+msgstr ""
+
+#: class.yith-wcwl-init.php:500
+#@ yit
+msgid "\"Add to Cart\" button border"
+msgstr ""
+
+#: class.yith-wcwl-init.php:506
+#@ yit
+msgid "\"Add to Cart\" button background (hover)"
+msgstr ""
+
+#: class.yith-wcwl-init.php:507
+#@ yit
+msgid "\"Add to Cart\" button text (hover)"
+msgstr ""
+
+#: class.yith-wcwl-init.php:508
+#@ yit
+msgid "\"Add to Cart\" button border (hover)"
+msgstr ""
+
+#: class.yith-wcwl-init.php:513
+#@ yit
+msgid "Wishlist table background"
+msgstr ""
+
+#: class.yith-wcwl-init.php:514
+#@ yit
+msgid "Wishlist table text"
+msgstr ""
+
+#: class.yith-wcwl-init.php:515
+#@ yit
+msgid "Wishlist table border"
+msgstr ""
+
+#: class.yith-wcwl-init.php:575
+#@ yit
+msgid "Settings"
+msgstr ""
+
+#: class.yith-wcwl-init.php:576
+#@ yit
+msgid "Docs"
+msgstr ""
+
+#: class.yith-wcwl-init.php:592
+#@ yit
+msgid "Wishlist Page"
+msgstr ""
+
+#: class.yith-wcwl-init.php:593
+#@ yit
+msgid "Page contents: [yith_wcwl_wishlist]"
+msgstr ""
+
+#: class.yith-wcwl-init.php:862
+#@ yit
+msgid "Enable YITH Wishlist"
+msgstr ""
+
+#: class.yith-wcwl-init.php:863
+#, php-format
+#@ yit
+msgid "Enable all plugin features. <strong>Be sure to select a voice in the wishlist page menu in %s.</strong> Also, please read the plugin <a href=\"%s\" target=\"_blank\">documentation</a>."
+msgstr ""
+
+#: class.yith-wcwl-init.php:870
+#@ yit
+msgid "Use cookies"
+msgstr ""
+
+#: class.yith-wcwl-init.php:871
+#@ yit
+msgid "Use cookies instead of sessions. With this feature, the wishlist will be available for each not logged user for 30 days. Use the filter yith_wcwl_cookie_expiration_time to change the expiration time ( needs timestamp )."
+msgstr ""
+
+#: class.yith-wcwl-init.php:878
+#@ yit
+msgid "Wishlist title"
+msgstr ""
+
+#: class.yith-wcwl-init.php:880
+#: class.yith-wcwl-init.php:881
+#: class.yith-wcwl-init.php:1068
+#: class.yith-wcwl-init.php:1069
+#, php-format
+#@ yit
+msgid "My wishlist on %s"
+msgstr ""
+
+#: class.yith-wcwl-init.php:890
+#@ yit
+msgid "Position"
+msgstr ""
+
+#: class.yith-wcwl-init.php:891
+#@ yit
+msgid "On variable products you can add it only After \"Add to Cart\" or use the shortcode [yith_wcwl_add_to_wishlist]."
+msgstr ""
+
+#: class.yith-wcwl-init.php:897
+#@ yit
+msgid "After \"Add to cart\""
+msgstr ""
+
+#: class.yith-wcwl-init.php:898
+#@ yit
+msgid "After thumbnails"
+msgstr ""
+
+#: class.yith-wcwl-init.php:899
+#@ yit
+msgid "After summary"
+msgstr ""
+
+#: class.yith-wcwl-init.php:900
+#@ yit
+msgid "Use shortcode"
+msgstr ""
+
+#: class.yith-wcwl-init.php:905
+#@ yit
+msgid "Redirect to cart"
+msgstr ""
+
+#: class.yith-wcwl-init.php:906
+#@ yit
+msgid "Redirect to cart page if \"Add to cart\" button is clicked in the wishlist page."
+msgstr ""
+
+#: class.yith-wcwl-init.php:913
+#@ yit
+msgid "Remove if added to the cart"
+msgstr ""
+
+#: class.yith-wcwl-init.php:914
+#@ yit
+msgid "Remove the product from the wishlist if is been added to the cart."
+msgstr ""
+
+#: class.yith-wcwl-init.php:921
+#@ yit
+msgid "\"Add to Wishlist\" text"
+msgstr ""
+
+#: class.yith-wcwl-init.php:923
+#: class.yith-wcwl-init.php:924
+#@ yit
+msgid "Add to Wishlist"
+msgstr ""
+
+#: class.yith-wcwl-init.php:929
+#@ yit
+msgid "\"Add to Cart\" text"
+msgstr ""
+
+#: class.yith-wcwl-init.php:931
+#: class.yith-wcwl-init.php:932
+#@ yit
+msgid "Add to Cart"
+msgstr ""
+
+#: class.yith-wcwl-init.php:937
+#@ yit
+msgid "Show Unit price"
+msgstr ""
+
+#: class.yith-wcwl-init.php:945
+#@ yit
+msgid "Show \"Add to Cart\" button"
+msgstr ""
+
+#: class.yith-wcwl-init.php:953
+#@ yit
+msgid "Show Stock status"
+msgstr ""
+
+#: class.yith-wcwl-init.php:968
+#@ yit
+msgid "Use buttons"
+msgstr ""
+
+#: class.yith-wcwl-init.php:969
+#@ yit
+msgid "Use buttons instead of a simple anchors."
+msgstr ""
+
+#: class.yith-wcwl-init.php:976
+#@ yit
+msgid "Custom CSS"
+msgstr ""
+
+#: class.yith-wcwl-init.php:984
+#@ yit
+msgid "Use theme style"
+msgstr ""
+
+#: class.yith-wcwl-init.php:985
+#@ yit
+msgid "Use the theme style."
+msgstr ""
+
+#: class.yith-wcwl-init.php:992
+#@ yit
+msgid "Buttons rounded corners"
+msgstr ""
+
+#: class.yith-wcwl-init.php:993
+#@ yit
+msgid "Make buttons corner rounded"
+msgstr ""
+
+#: class.yith-wcwl-init.php:1000
+#@ yit
+msgid "\"Add to Wishlist\" icon"
+msgstr ""
+
+#: class.yith-wcwl-init.php:1001
+#@ yit
+msgid "Add an icon to the \"Add to Wishlist\" button"
+msgstr ""
+
+#: class.yith-wcwl-init.php:1012
+#@ yit
+msgid "\"Add to Cart\" icon"
+msgstr ""
+
+#: class.yith-wcwl-init.php:1013
+#@ yit
+msgid "Add an icon to the \"Add to Cart\" button"
+msgstr ""
+
+#: class.yith-wcwl-init.php:1031
+#@ yit
+msgid "Share on Facebook"
+msgstr ""
+
+#: class.yith-wcwl-init.php:1038
+#@ yit
+msgid "Tweet on Twitter"
+msgstr ""
+
+#: class.yith-wcwl-init.php:1045
+#@ yit
+msgid "Pin on Pinterest"
+msgstr ""
+
+#: class.yith-wcwl-init.php:1052
+#@ yit
+msgid "Share on Google+"
+msgstr ""
+
+#: class.yith-wcwl-init.php:1059
+#@ yit
+msgid "Share by Email"
+msgstr ""
+
+#: class.yith-wcwl-init.php:1066
+#@ yit
+msgid "Socials title"
+msgstr ""
+
+#: class.yith-wcwl-init.php:1074
+#@ yit
+msgid "Socials text"
+msgstr ""
+
+#: class.yith-wcwl-init.php:1075
+#, php-format
+#@ yit
+msgid "Will be used by Facebook, Twitter and Pinterest. Use <strong>%wishlist_url%</strong> where you want the URL of your wishlist to appear."
+msgstr ""
+
+#: class.yith-wcwl-init.php:1083
+#@ yit
+msgid "Socials image URL"
+msgstr ""
+
+#: class.yith-wcwl-install.php:136
+#@ yit
+msgctxt "page_slug"
+msgid "wishlist"
+msgstr ""
+
+#: class.yith-wcwl-ui.php:67
+#: class.yith-wcwl.php:351
+#: yith-wcwl-ajax.php:47
+#@ yit
+msgid "Product added!"
+msgstr "Đã thêm sản phẩm vào danh sách yêu thích!"
+
+#: class.yith-wcwl-ui.php:67
+#: class.yith-wcwl-ui.php:68
+#@ yit
+msgid "Browse Wishlist"
+msgstr ""
+
+#: class.yith-wcwl-ui.php:68
+#@ yit
+msgid "The product is already in the wishlist!"
+msgstr ""
+
+#: class.yith-wcwl-ui.php:100
+#@ yit
+msgid "Select options"
+msgstr ""
+
+#: class.yith-wcwl-ui.php:145
+#@ yit
+msgid "Share on:"
+msgstr ""
+
+#: class.yith-wcwl-ui.php:149
+#@ yit
+msgid "Facebook"
+msgstr ""
+
+#: class.yith-wcwl-ui.php:152
+#@ yit
+msgid "Twitter"
+msgstr ""
+
+#: class.yith-wcwl-ui.php:161
+#@ yit
+msgid "email"
+msgstr ""
+
+#: class.yith-wcwl.php:140
+#@ yit
+msgid "Error occurred while adding product to wishlist."
+msgstr ""
+
+#: class.yith-wcwl.php:162
+#@ yit
+msgid "Error occurred while removing product from wishlist"
+msgstr ""
+
+#: class.yith-wcwl.php:353
+#: yith-wcwl-ajax.php:49
+#@ yit
+msgid "Product already in the wishlist."
+msgstr "Sản phẩm đã có trong danh sách yêu thích."
+
+#: class.yith-wcwl.php:370
+#: yith-wcwl-ajax.php:30
+#@ yit
+msgid "Product successfully removed."
+msgstr ""
+
+#: class.yith-wcwl.php:373
+#: yith-wcwl-ajax.php:33
+#@ yit
+msgid "Error. Unable to remove the product from the wishlist."
+msgstr ""
+
+#: class.yith-wcwl.php:377
+#: templates/wishlist.php:161
+#: yith-wcwl-ajax.php:37
+#@ yit
+msgid "No products were added to the wishlist"
+msgstr "Chưa có sản phẩm nào trong danh sách yêu thích"
+
+#. translators: plugin header field 'Name'
+#: init.php:0
+#@ yit
+msgid "YITH WooCommerce Wishlist"
+msgstr ""
+
+#. translators: plugin header field 'PluginURI'
+#. translators: plugin header field 'AuthorURI'
+#: init.php:0
+#@ yit
+msgid "http://yithemes.com/"
+msgstr ""
+
+#. translators: plugin header field 'Description'
+#: init.php:0
+#@ yit
+msgid "YITH WooCommerce Wishlist allows you to add Wishlist functionality to your e-commerce."
+msgstr ""
+
+#. translators: plugin header field 'Author'
+#: init.php:0
+#@ yit
+msgid "Your Inspiration Themes"
+msgstr ""
+
+#. translators: plugin header field 'Version'
+#: init.php:0
+#@ yit
+msgid "1.1.6"
+msgstr ""
+
+#: templates/wishlist.php:82
+#@ yit
+msgid "Product Name"
+msgstr "Tên sản phẩm"
+
+#: templates/wishlist.php:83
+#@ yit
+msgid "Unit Price"
+msgstr "Đơn giá"
+
+#: templates/wishlist.php:84
+#@ yit
+msgid "Stock Status"
+msgstr "Tình trạng sản phẩm"
+
+#: templates/wishlist.php:107
+#@ yit
+msgid "Remove this product"
+msgstr "Loại bỏ"
+
+#: templates/wishlist.php:127
+#@ yit
+msgid "Free!"
+msgstr ""
+
+#: templates/wishlist.php:140
+#@ yit
+msgid "Out of Stock"
+msgstr "Hết hàng"
+
+#: templates/wishlist.php:143
+#@ yit
+msgid "In Stock"
+msgstr "Còn hàng"
+
+#: yit-common/yith-panel.php:406
+#@ yit
+msgid "Select a date"
+msgstr ""
+
+#: yit-common/yith-panel.php:407
+#@ yit
+msgid "Hours"
+msgstr ""
+
+#: yit-common/yith-panel.php:408
+#: yit-common/yith-panel.php:409
+#@ yit
+msgid "Minutes"
+msgstr ""
+
+#: yit-common/yith-panel.php:417
+#@ yit
+msgid "Upload"
+msgstr ""
+
+#: yit-common/yith-panel.php:444
+#@ yit
+msgid "px"
+msgstr ""
+
+#: yit-common/yith-panel.php:445
+#@ yit
+msgid "em"
+msgstr ""
+
+#: yit-common/yith-panel.php:446
+#@ yit
+msgid "pt"
+msgstr ""
+
+#: yit-common/yith-panel.php:447
+#@ yit
+msgid "rem"
+msgstr ""
+
+#: yit-common/yith-panel.php:457
+#@ yit
+msgid "Select a font family"
+msgstr ""
+
+#: yit-common/yith-panel.php:465
+#@ yit
+msgid "Regular"
+msgstr ""
+
+#: yit-common/yith-panel.php:466
+#@ yit
+msgid "Bold"
+msgstr ""
+
+#: yit-common/yith-panel.php:467
+#@ yit
+msgid "Extra bold"
+msgstr ""
+
+#: yit-common/yith-panel.php:468
+#@ yit
+msgid "Italic"
+msgstr ""
+
+#: yit-common/yith-panel.php:469
+#@ yit
+msgid "Italic bold"
+msgstr ""
+
+#: yit-common/yith-panel.php:481
+#@ yit
+msgid "Click to preview"
+msgstr ""
+
